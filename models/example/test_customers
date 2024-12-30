@@ -1,1 +1,0 @@
-select * from `dbt-learn-bigquery-446307.jaffle_shop_test.customers`
